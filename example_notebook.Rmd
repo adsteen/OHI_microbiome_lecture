@@ -11,3 +11,6 @@ I can use R to do calculations for me. I will use R to calculate 2+2.
 print(2+2)
 ```
 
+I have concluded that if I have two things, and someone gives me two more, I will have four things. 
+
+

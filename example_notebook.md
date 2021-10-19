@@ -10,3 +10,6 @@ print(2+2)
 ```
 
     ## [1] 4
+
+I have concluded that if I have two things, and someone gives me two
+more, I will have four things.
